@@ -1,0 +1,1 @@
+These are all Shell Input and Ouput scripts. Each script has various functions they carry out on our terminal.
