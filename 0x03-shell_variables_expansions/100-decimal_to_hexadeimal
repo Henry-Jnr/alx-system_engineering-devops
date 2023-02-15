@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' $(( 0xFF ))
+printf '%x\n' $0xFF
